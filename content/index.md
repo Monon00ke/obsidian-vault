@@ -1,0 +1,14 @@
+---
+title: Monon00ke's Digital Garden
+---
+
+Добро пожаловать в мой цифровой сад! Здесь собраны заметки по математике, английскому, лабораторным работам и научной деятельности.
+
+## Разделы
+
+- [[00 English MOC|English]] — Грамматика, IELTS, Vocabulary
+- [[00 Math MOC|Math]] — Математический анализ, статистика
+- [[00 Functional Analysis MOC|Functional Analysis]]
+- [[00 OS Labs MOC|OS Labs]] — Лабораторные работы
+- [[00 Scientific Work MOC|Scientific Work]]
+- Photos
