@@ -12,3 +12,7 @@ title: Monon00ke's Digital Garden
 - [[00 OS Labs MOC|OS Labs]] — Лабораторные работы
 - [[00 Scientific Work MOC|Scientific Work]]
 - Photos
+
+## Для AI-ассистента
+
+- [[AI-MEMORY|AI-MEMORY]] — Памятка для продолжения работы в новой сессии
