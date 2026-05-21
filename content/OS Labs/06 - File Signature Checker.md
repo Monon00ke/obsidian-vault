@@ -126,4 +126,6 @@ taburetka@DESKTOP-L5144K1:~$
 ---
 ## Backlinks
 
-- [00 OS Labs MOC](00%20OS%20Labs%20MOC.md)
+- [[00 OS Labs MOC]]
+- [[08 - sed and awk Exercises]]
+- [[12-13 - Script Validation]]

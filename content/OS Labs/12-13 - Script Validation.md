@@ -212,4 +212,6 @@ cat file.txt | ./lines-range.sh 0x10 0x20
 ---
 ## Backlinks
 
-- [00 OS Labs MOC](00%20OS%20Labs%20MOC.md)
+- [[00 OS Labs MOC]]
+- [[06 - File Signature Checker]]
+- [[08 - sed and awk Exercises]]

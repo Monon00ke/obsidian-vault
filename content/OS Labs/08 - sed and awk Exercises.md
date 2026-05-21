@@ -441,4 +441,6 @@ taburetka@DESKTOP-L5144K1:~$ awk '{ ... }' tests/sliding_variable.txt
 ---
 ## Backlinks
 
-- [00 OS Labs MOC](00%20OS%20Labs%20MOC.md)
+- [[00 OS Labs MOC]]
+- [[06 - File Signature Checker]]
+- [[12-13 - Script Validation]]

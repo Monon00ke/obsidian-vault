@@ -264,4 +264,5 @@ FNR==NR {
 ---
 ## Backlinks
 
-- [00 OS Labs MOC](00%20OS%20Labs%20MOC.md)
+- [[00 OS Labs MOC]]
+- [[14]]
