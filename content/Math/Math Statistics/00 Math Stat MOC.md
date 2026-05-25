@@ -14,4 +14,5 @@ layout: default
 - [[08 HW - ANOVA|HW 8 — ANOVA, Kruskal-Wallis, Jonckheere-Terpstra]]
 - [[09 HW - Contingency Tables|HW 9 — Chi-Square Independence, Goodman-Kruskal]]
 - [[10 HW - Spearman & Chi-Square|HW 10 — Spearman, Kendall, Chi-Square]]
+- [[11 HW - Multiple Correlation & Regression|HW 11 — Multiple Correlation & Linear Regression]]
 - [[20-21 HW - Regression Analysis|HW 20-21 — Partial Correlation, Multiple Regression, Concordance]]
