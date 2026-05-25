@@ -1,5 +1,5 @@
 ---
-title: "Topic 11 — Shopping"
+title: Topic 11 — Shopping
 layout: default
 ---
 # Speaking Topic — Shopping (Шопинг)

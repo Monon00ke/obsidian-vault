@@ -36,15 +36,15 @@ layout: default
 
 ## Types of Social Networks
 
-| Type | Examples | Purpose |
-|------|----------|---------|
-| **Messaging** | WhatsApp, Telegram | Communication |
-| **Photo/Video** | Instagram, TikTok | Visual content |
-| **Professional** | LinkedIn | Work, career |
-| **Microblogging** | Twitter/X | News, opinions |
-| **Video** | YouTube | Long-form content |
-| **Forums** | Reddit | Discussions |
-| **Social** | VK, Facebook | Everything |
+| Type              | Examples           | Purpose           |
+| ----------------- | ------------------ | ----------------- |
+| **Messaging**     | WhatsApp, Telegram | Communication     |
+| **Photo/Video**   | Instagram, TikTok  | Visual content    |
+| **Professional**  | LinkedIn           | Work, career      |
+| **Microblogging** | Twitter/X          | News, opinions    |
+| **Video**         | YouTube            | Long-form content |
+| **Forums**        | Reddit             | Discussions       |
+| **Social**        | VK, Facebook       | Everything        |
 
 ## Key Points
 
@@ -97,14 +97,14 @@ layout: default
 ## Vocabulary for Different Opinions
 
 ### Positive
-| Phrase | Translation |
-|--------|-------------|
-| stay connected with loved ones | оставаться на связи с близкими |
-| access to information | доступ к информации |
-| build a community | построить сообщество |
-| creative outlet | творческая реализация |
-| networking opportunities | возможности для связей |
-| raise awareness | повышать осведомлённость |
+| Translation                    | Phrase                         |
+| ------------------------------ | ------------------------------ |
+| оставаться на связи с близкими | stay connected with loved ones |
+| доступ к информации            | access to information          |
+| построить сообщество           | build a community              |
+| творческая реализация          | creative outlet                |
+| возможности для связей         | networking opportunities       |
+| повышать осведомлённость       | raise awareness                |
 
 ### Negative
 | Phrase | Translation |

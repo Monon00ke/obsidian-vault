@@ -61,10 +61,3 @@ $$
 $t_{0.025}(3) = 3.182$. Так как $3.576 > 3.182$, $H_0$ отвергаем. Коэффициент наклона значим.
 
 ---
-
-## Backlinks
-
-- [[00 Math Stat MOC]]
-- [[03 HW - Correlation & Robustness]]
-- [[10 HW - Spearman & Chi-Square]]
-- [[20-21 HW - Regression Analysis]]

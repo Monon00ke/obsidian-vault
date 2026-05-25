@@ -16,6 +16,9 @@ title: "OS Labs — Map of Content"
 | 11 | [[11 - Filesystem Pseudodisk\|Filesystem & Pseudodisk]] | Создание и работа с псевдодиском ext2 |
 | 12-13 | [[12-13 - Script Validation\|Script Validation]] | Валидация аргументов скриптов |
 | 14 | [[14\|Processes & procfs]] | Процессы, ps, pstree, /proc |
+| 15-16 | [[OS Labs/15-16 - Process Monitoring\|Process Monitoring]] | Наблюдение за процессами, /proc |
+| 17 | [[OS Labs/17 - Pipes and Fork\|Pipes & Fork]] | Межпроцессное взаимодействие через pipe |
+| 18-19 | [[OS Labs/18-19 - Signal Handling\|Signal Handling]] | Сигналы, маскирование, обработка |
 
 ## Навигация
 
