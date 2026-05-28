@@ -18,6 +18,9 @@ layout: default
 - [[20-21 HW - Regression Analysis|HW 20-21 — Partial Correlation, Multiple Regression, Concordance]]
 - [[All Criteria Reference|All Criteria Reference — Complete Guide]]
 
-
 ---
-[[00 Math MOC|← Назад к Math]]
+
+## См. также
+- [[OS Labs/18-19 - Signal Handling|ОС: сигналы]] — статистика в экспериментах
+- [[00 Physics MOC|Физика]] — статистическая обработка данных
+- [[00 Functional Analysis MOC|Теория вероятностей]] — основы

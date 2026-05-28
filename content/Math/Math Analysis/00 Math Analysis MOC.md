@@ -6,6 +6,3 @@ layout: default
 
 - [[Series Convergence|Series Convergence — Necessary Condition]]
 
-
----
-[[00 Math MOC|← Назад к Math]]

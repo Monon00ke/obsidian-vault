@@ -176,3 +176,9 @@ $$\Delta\lambda = \lambda \cdot \varepsilon_\lambda = 448 \cdot 0.0006 \approx 0
 ---
 
 *Дата проведения: $\_\_\_\_$*
+
+---
+
+## См. также
+- [[Math Statistics/All Criteria Reference|Статистические критерии]] — расчёт погрешностей и СКО
+- [[Math Statistics/03 HW - Correlation & Robustness|Корреляция и точечные оценки]]

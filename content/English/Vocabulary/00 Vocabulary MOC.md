@@ -8,6 +8,3 @@ layout: default
 - [[Waste-Types|Waste Types]]
 - [[Phrases-and-Collocations|Phrases & Collocations]]
 
-
----
-[[00 English MOC|← Назад к English]]

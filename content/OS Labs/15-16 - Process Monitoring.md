@@ -315,3 +315,9 @@ ps -eo pid,ppid,stat,cmd | grep "running forever" | grep -v grep
 ![[Pasted image 20260518194213.png]]
 
 После завершения родителя (PID=7945) все три ребёнка были усыновлены процессом `systemd --user` (PID=2079). PPID изменился с 7945 на 2079.****
+
+---
+
+## См. также
+- [[00 Physics MOC|Физика]] — измерения и наблюдения
+- [[00 Scientific Work MOC|Научная работа]] — методология эксперимента

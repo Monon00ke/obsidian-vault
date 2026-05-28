@@ -330,3 +330,9 @@ disown
 import signal
 signal.signal(signal.SIGHUP, signal.SIG_IGN)
 ```
+
+---
+
+## См. также
+- [[Math Statistics/07 HW - Nonparametric Tests|Непараметрические тесты]] — сравнение распределений
+- [[Math Statistics/08 HW - ANOVA|Дисперсионный анализ]] — сравнение средних в группах
