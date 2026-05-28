@@ -117,3 +117,11 @@ Read the first part of the text and say if the statements are true or false.
 ---
 
 *Unit 3 — Water Pollution · Complete Study Guide*
+
+---
+
+## См. также
+
+- [[03 — Gap Year|Topic 3: Gap Year]] — другой IELTS Speaking тема
+- [[00 IELTS MOC|К оглавлению: IELTS]]
+- [[unit3-water-pollution|Exam Prep: Water Pollution]] — версия для экзамена

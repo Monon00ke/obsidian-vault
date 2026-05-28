@@ -30,4 +30,3 @@ layout: default
 ## [[Exam Prep/00 Exam Prep MOC|Exam Preparation]]
 - [[Exam Prep/Exam Format & Rules|Exam Format & Grading]]
 - [[Exam Prep/Class Exercises - Air Pollution|Class Exercises — Air Pollution]]
-

@@ -6,9 +6,4 @@ layout: default
 
 - [[Exam Format & Rules|Exam Format & Grading]]
 - [[Class Exercises - Air Pollution|Class Exercises — Air Pollution]]
-
----
-
-## См. также
-- [[English/IELTS/00 IELTS MOC|IELTS]] — международный экзамен
-- [[English/Grammar/00 Grammar MOC|Grammar]] — правила языка
+- [[unit3-water-pollution|Unit 3 — Water Pollution]]
