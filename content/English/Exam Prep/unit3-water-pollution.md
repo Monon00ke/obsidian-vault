@@ -1,5 +1,5 @@
 ---
-title: "03 - Water Pollution"
+title: "Unit 3 — Water Pollution (Exam)"
 ---
 
 # Unit 3 — Water Pollution
@@ -64,7 +64,7 @@ Read the first part of the text and say if the statements are true or false.
 | Statement | Answer |
 |---|---|
 | Accessibility to safe water has become a major challenge to the world as fresh water supplies are stretched to meet the demands of population, industries and agriculture. | ✅ **True** |
-| Worldwide demand is getting twice as much every ten years. | ❌ **False** (it's every 21 years, not ten) |
+| Worldwide demand is getting twice as much every ten years. | ❌ **False** (every 21 years, not ten) |
 | Diseases due to unsafe water account for 60% of infections in the developing world. | ❌ **False** (it's 80%, not 60%) |
 | An average American uses 1000 litres of water a day. | ✅ **True** |
 

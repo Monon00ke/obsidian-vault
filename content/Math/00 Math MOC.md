@@ -16,4 +16,6 @@ layout: default
 - [[Math Statistics/08 HW - ANOVA|HW 8]]
 - [[Math Statistics/09 HW - Contingency Tables|HW 9]]
 - [[Math Statistics/10 HW - Spearman & Chi-Square|HW 10]]
+- [[Math Statistics/11 HW - Multiple Correlation & Regression|HW 11]]
 - [[Math Statistics/20-21 HW - Regression Analysis|HW 20-21]]
+- [[Math Statistics/All Criteria Reference|All Criteria Reference — Complete Guide]]

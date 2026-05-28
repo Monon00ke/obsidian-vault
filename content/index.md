@@ -9,7 +9,9 @@ title: Monon00ke's Digital Garden
 - [[00 English MOC|English]] — Грамматика, IELTS, Vocabulary
 - [[00 Math MOC|Math]] — Математический анализ, статистика
 - [[00 Functional Analysis MOC|Functional Analysis]]
-- [[00 OS Labs MOC|OS Labs]] — Лабораторные работы
+- [[00 OS Labs MOC|OS Labs]] — Лабораторные работы по ОС
+- [[00 Physics MOC|Physics]] — Лабораторные работы по физике
+- [[00 Presentations MOC|Presentations]] — Презентации и доклады
 - [[00 Scientific Work MOC|Scientific Work]]
 - Photos
 

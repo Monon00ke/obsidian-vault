@@ -1,5 +1,5 @@
 ---
-title: "15-16 — Process Monitoring"
+title: "15-16 - Process Monitoring"
 ---
 
 # Семинар 15-16. Наблюдение за процессами

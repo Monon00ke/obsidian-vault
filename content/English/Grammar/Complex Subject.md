@@ -2,11 +2,13 @@
 title: "Complex Subject"
 ---
 
+
+
 he is considered to be a god programmer / it is considered that he is a god programmer
 he is a god programmer
 разные вещи. в 1 предложении и назыввется complex subject
 
-considered - supposed - said - meant - know - hope - expect - think -
+considered - supposed - said - meant - know - hope - expect - think - 
 
 it is known that he is the most nuclear, sad and narrow eyed president in the world
 

@@ -1,5 +1,5 @@
 ---
-title: "Presentation Notes — Bamboo Toothbrush"
+title: "Presentation Notes"
 ---
 
 **Slide 1: Title** **Bamboo Toothbrush and Toothpaste Tablets** — Our eco-friendly product for soil and the environment
