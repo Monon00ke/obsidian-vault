@@ -15,9 +15,16 @@ title: "00 Physics MOC"
 | 2 | [[Работа №2 — Мощность и КПД\|Мощность и КПД источника]] | Зависимость мощности и КПД от нагрузки |
 | 3 | [[Работа №3 — Линзы\|Линзы]] | Определение фокусного расстояния линз |
 
+---
+
+
 ## Навигация
 
+- [[index|Home]]
 - [[00 English MOC|English]]
 - [[00 Math MOC|Math]]
+- [[00 Functional Analysis MOC|Functional Analysis]]
 - [[00 OS Labs MOC|OS Labs]]
+- [[00 Physics MOC|Physics]]
+- [[00 Presentations MOC|Presentations]]
 - [[00 Scientific Work MOC|Scientific Work]]

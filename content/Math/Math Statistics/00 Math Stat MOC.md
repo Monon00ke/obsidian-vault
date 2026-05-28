@@ -17,3 +17,7 @@ layout: default
 - [[11 HW - Multiple Correlation & Regression|HW 11 — Multiple Correlation & Linear Regression]]
 - [[20-21 HW - Regression Analysis|HW 20-21 — Partial Correlation, Multiple Regression, Concordance]]
 - [[All Criteria Reference|All Criteria Reference — Complete Guide]]
+
+
+---
+[[00 Math MOC|← Назад к Math]]

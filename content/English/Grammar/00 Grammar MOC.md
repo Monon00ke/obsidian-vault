@@ -21,3 +21,7 @@ layout: default
 - [[Articles]]
 - [[Complex Object]]
 - [[Reported Speech]]
+
+
+---
+[[00 English MOC|← Назад к English]]

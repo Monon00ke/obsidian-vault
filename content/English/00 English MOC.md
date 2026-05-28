@@ -30,3 +30,17 @@ layout: default
 ## [[Exam Prep/00 Exam Prep MOC|Exam Preparation]]
 - [[Exam Prep/Exam Format & Rules|Exam Format & Grading]]
 - [[Exam Prep/Class Exercises - Air Pollution|Class Exercises — Air Pollution]]
+
+
+---
+
+## Навигация
+
+- [[index|Home]]
+- [[00 English MOC|English]]
+- [[00 Math MOC|Math]]
+- [[00 Functional Analysis MOC|Functional Analysis]]
+- [[00 OS Labs MOC|OS Labs]]
+- [[00 Physics MOC|Physics]]
+- [[00 Presentations MOC|Presentations]]
+- [[00 Scientific Work MOC|Scientific Work]]

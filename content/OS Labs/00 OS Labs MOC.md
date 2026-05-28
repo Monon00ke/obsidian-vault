@@ -20,9 +20,16 @@ title: "OS Labs — Map of Content"
 | 17 | [[OS Labs/17 - Pipes and Fork\|Pipes & Fork]] | Межпроцессное взаимодействие через pipe |
 | 18-19 | [[OS Labs/18-19 - Signal Handling\|Signal Handling]] | Сигналы, маскирование, обработка |
 
+---
+
+
 ## Навигация
 
-- [[00 English MOC\|English]]
-- [[00 Math MOC\|Math]]
-- [[00 Functional Analysis MOC\|Functional Analysis]]
-- [[00 Scientific Work MOC\|Scientific Work]]
+- [[index|Home]]
+- [[00 English MOC|English]]
+- [[00 Math MOC|Math]]
+- [[00 Functional Analysis MOC|Functional Analysis]]
+- [[00 OS Labs MOC|OS Labs]]
+- [[00 Physics MOC|Physics]]
+- [[00 Presentations MOC|Presentations]]
+- [[00 Scientific Work MOC|Scientific Work]]

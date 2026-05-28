@@ -5,3 +5,7 @@ layout: default
 # Math Analysis
 
 - [[Series Convergence|Series Convergence — Necessary Condition]]
+
+
+---
+[[00 Math MOC|← Назад к Math]]

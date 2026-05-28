@@ -19,3 +19,17 @@ layout: default
 - [[Math Statistics/11 HW - Multiple Correlation & Regression|HW 11]]
 - [[Math Statistics/20-21 HW - Regression Analysis|HW 20-21]]
 - [[Math Statistics/All Criteria Reference|All Criteria Reference — Complete Guide]]
+
+
+---
+
+## Навигация
+
+- [[index|Home]]
+- [[00 English MOC|English]]
+- [[00 Math MOC|Math]]
+- [[00 Functional Analysis MOC|Functional Analysis]]
+- [[00 OS Labs MOC|OS Labs]]
+- [[00 Physics MOC|Physics]]
+- [[00 Presentations MOC|Presentations]]
+- [[00 Scientific Work MOC|Scientific Work]]
