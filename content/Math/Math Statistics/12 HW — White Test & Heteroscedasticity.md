@@ -2,7 +2,7 @@
 title: "12 HW — White Test & Heteroscedasticity"
 ---
 
-# ДЗ 12 — Тест Уайта и гетероскедастичность
+# ДЗ 12 
 
 ---
 

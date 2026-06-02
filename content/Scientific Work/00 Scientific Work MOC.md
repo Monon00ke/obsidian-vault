@@ -8,9 +8,3 @@ layout: default
 - [[08 Lab - Elective Course Design|Lab 8 — Elective Course Design]]
 - [[09 Lab - Resource Evaluation|Lab 9 — Resource Evaluation]]
 - [[10 Lab - Bibliography|Lab 10 — Bibliography (GOST R 7.0.100–2018)]]
-
----
-
-## См. также
-- [[00 OS Labs MOC|ОС лабораторные]] — методы проведения экспериментов
-- [[Math Statistics/All Criteria Reference|Статистические критерии]] — обработка результатов

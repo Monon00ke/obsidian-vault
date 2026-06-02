@@ -5,4 +5,3 @@ layout: default
 # Math Analysis
 
 - [[Series Convergence|Series Convergence — Necessary Condition]]
-
